@@ -1,0 +1,6 @@
+ChoreDoor program
+--construct a single-page website that plays a fully-functional game using html,css,js.
+The ChoreBot hides behind one of the doors. The user's mission is to open first two doors
+without running into the ChoreBot. If the user manages to avoid the ChoreBot
+until the 2nd door. The user wins. If not, the user loses. The user can restart
+the game by pressing the button.
